@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+graphics/__init__.py
+graphics.py.egg-info/PKG-INFO
+graphics.py.egg-info/SOURCES.txt
+graphics.py.egg-info/dependency_links.txt
+graphics.py.egg-info/not-zip-safe
+graphics.py.egg-info/top_level.txt
